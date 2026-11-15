@@ -1,5 +1,5 @@
-![Haniel Dev Banner]
-(haniel_dev_banner.jpg)
+![Haniel Dev Banner](haniel_dev_banner.jpg)
+
 👨💻 HANIEL DEV
 
 Software Developer | AI Enthusiast | Medical Sciences
